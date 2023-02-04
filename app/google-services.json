@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "15490538357",
+    "firebase_url": "https://elektra-6d039-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elektra-6d039",
+    "storage_bucket": "elektra-6d039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15490538357:android:a486066479231f9c29d13c",
+        "android_client_info": {
+          "package_name": "com.elektra.elektraadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15490538357-a6j9no535blmn750cmgl38pe44invrcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZwcSTipduNMQszhaoODDGEZ7eRGC8CdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15490538357-a6j9no535blmn750cmgl38pe44invrcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15490538357:android:24913f727681893c29d13c",
+        "android_client_info": {
+          "package_name": "com.example.awestruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15490538357-a6j9no535blmn750cmgl38pe44invrcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZwcSTipduNMQszhaoODDGEZ7eRGC8CdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15490538357-a6j9no535blmn750cmgl38pe44invrcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
