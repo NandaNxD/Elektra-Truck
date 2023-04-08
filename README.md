@@ -3,6 +3,8 @@ Elektra Trucks is an android application built in a Hackathon using Java to help
 Features: 
   1. Live Data feed from trucks on parameters: Speed, Elevation, Temperature, Pressure, Terrain data of Road
   2. Geofencing (Setting area limits for the truck driving)
+  
+Tech Stack: [Android, Firebase, NodeMCU, Google Maps]
 
 Truck Side: NodeMCU based ECU to push live datapoints to cloud: Involving GPS,Ultrasonic,Temperature,Gyroscope sensors
 https://user-images.githubusercontent.com/65838540/230705145-7a946132-1788-422c-97cc-f7e982c96ee8.mp4
